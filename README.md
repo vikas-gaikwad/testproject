@@ -6,8 +6,8 @@ my first demo project in angular 9. online shopping application
 # git path:
  - git folder created in C:\git\testproject
   - github setup url:
-     - git config --global user.name "vikas-gaikwad"
-     - git config --global user.email vikasgaikwad201415@gmail.com
+     - git config --global user.name "my github name"
+     - git config --global user.email github linked email without double quote
      - git clone https://github.com/vikas-gaikwad/testproject.git
 
 
